@@ -1,0 +1,6 @@
+18:01:58 INFO  : Registering command handlers for SDK TCF services
+18:02:00 INFO  : Launching XSCT server: xsct.bat -interactive F:\zynq_sdk\pj3_emio\emio\emio.sdk\temp_xsdb_launch_script.tcl
+18:02:07 INFO  : XSCT server has started successfully.
+18:02:12 INFO  : Successfully done setting XSCT server connection channel  
+18:02:12 INFO  : Processing command line option -hwspec F:/zynq_sdk/pj3_emio/emio/emio.sdk/system_wrapper.hdf.
+18:02:12 INFO  : Successfully done setting SDK workspace  

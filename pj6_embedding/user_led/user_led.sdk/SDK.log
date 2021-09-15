@@ -1,0 +1,6 @@
+20:24:09 INFO  : Registering command handlers for SDK TCF services
+20:24:12 INFO  : Launching XSCT server: xsct.bat -interactive F:\zynq_sdk\pj6_embedding\user_led\user_led.sdk\temp_xsdb_launch_script.tcl
+20:24:18 INFO  : XSCT server has started successfully.
+20:24:27 INFO  : Successfully done setting XSCT server connection channel  
+20:24:27 INFO  : Successfully done setting SDK workspace  
+20:24:27 INFO  : Processing command line option -hwspec F:/zynq_sdk/pj6_embedding/user_led/user_led.sdk/system_wrapper.hdf.

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Tue Sep  7 22:05:20 2021
+# Process ID: 11832
+# Current directory: F:/zynq_sdk/pj6_embedding/user_led/user_led.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: F:/zynq_sdk/pj6_embedding/user_led/user_led.sdk/webtalk/webtalk.log
+# Journal file: F:/zynq_sdk/pj6_embedding/user_led/user_led.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

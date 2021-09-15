@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Fri Aug 20 17:25:07 2021
+# Process ID: 15212
+# Current directory: F:/zynq_sdk/pj2_mio/mio/mio.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: F:/zynq_sdk/pj2_mio/mio/mio.sdk/webtalk/webtalk.log
+# Journal file: F:/zynq_sdk/pj2_mio/mio/mio.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

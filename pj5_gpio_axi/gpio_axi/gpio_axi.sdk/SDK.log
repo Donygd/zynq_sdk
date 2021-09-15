@@ -1,0 +1,6 @@
+22:27:11 INFO  : Registering command handlers for SDK TCF services
+22:27:12 INFO  : Launching XSCT server: xsct.bat -interactive F:\zynq_sdk\pj5_gpio_axi\gpio_axi\gpio_axi.sdk\temp_xsdb_launch_script.tcl
+22:27:16 INFO  : XSCT server has started successfully.
+22:27:17 INFO  : Successfully done setting XSCT server connection channel  
+22:27:17 INFO  : Successfully done setting SDK workspace  
+22:27:17 INFO  : Processing command line option -hwspec F:/zynq_sdk/pj5_gpio_axi/gpio_axi/gpio_axi.sdk/system_wrapper.hdf.

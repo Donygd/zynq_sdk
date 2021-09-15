@@ -1,0 +1,6 @@
+19:43:19 INFO  : Registering command handlers for SDK TCF services
+19:43:22 INFO  : Launching XSCT server: xsct.bat -interactive F:\zynq_sdk\pj1_uart\uart\uart.sdk\temp_xsdb_launch_script.tcl
+19:43:31 INFO  : XSCT server has started successfully.
+19:43:36 INFO  : Successfully done setting XSCT server connection channel  
+19:43:36 INFO  : Successfully done setting SDK workspace  
+19:43:36 INFO  : Processing command line option -hwspec F:/zynq_sdk/pj1_uart/uart/uart.sdk/system_wrapper.hdf.

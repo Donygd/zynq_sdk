@@ -1,0 +1,8 @@
+23:13:53 **** Incremental Build of configuration Debug for project gpio_axi ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+23:13:54 Build Finished (took 422ms)
+
